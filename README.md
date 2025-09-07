@@ -2,7 +2,7 @@
 Projeto Itaú +  Cerfificado Practitioner AWS IA (PCD)
 # AWS Certified AI Practitioner – Preparação
 
-Este diretório documenta minha jornada de preparação para a certificação **AWS Certified AI Practitioner**, dentro do programa **Itaú Inclui AWS IA 
+Este diretório documenta minha jornada de preparação para a certificação **AWS Certified AI Practitioner**, dentro do programa Itaú Inclui AWS Certified AI Practitioner
 
 ---
 
