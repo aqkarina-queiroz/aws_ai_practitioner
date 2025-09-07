@@ -33,7 +33,7 @@ Este diretório documenta minha jornada de preparação para a certificação **
 ---
 
 ## 📌 Checklist de Progresso
-- [ ] Concluir autoaprendizado no Skillbuilder  
+- [x] Concluir autoaprendizado no Skillbuilder  
 - [ ] Participar do Aulão AWS (17/09)  
 - [ ] Iniciar trilha AWS IA no IOX (18/09)  
 - [ ] Criar primeiro dashboard no QuickSight  
