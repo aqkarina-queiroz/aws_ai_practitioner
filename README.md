@@ -1,4 +1,4 @@
-# aws_ai_practitioner
+
 Projeto Itaú +  Cerfificado Practitioner AWS IA (PCD)
 # AWS Certified AI Practitioner – Preparação
 
